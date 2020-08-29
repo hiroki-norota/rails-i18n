@@ -242,3 +242,6 @@ See [https://github.com/svenfuchs/rails-i18n/contributors](https://github.com/sv
 ## Special thanks
 
 [Tsutomu Kuroda](https://github.com/kuroda) for untiringly taking care of this repository, issues and pull requests
+
+##自分用メモ
+パスrails-i18n / rails / locals / ja.yml
